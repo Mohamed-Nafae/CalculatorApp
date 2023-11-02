@@ -33,6 +33,6 @@ The Simple Calculator App is a straightforward Android application designed to p
 
 ## Code Structure
 
-- The Kotlin code for the calculator logic is located in the `Calculator.kt` file.
-- The XML layout for the user interface is defined in the `activity_main.xml` file.
+- The Kotlin code for the calculator logic is located in the `app/src/main/java/com/benmeddour/calculatrice/MainActivity.kt` file.
+- The XML layout for the user interface is defined in the `app/src/main/res/layout/activity_main.xml` file.
 
